@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUOHwZWbtes=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\лаба2задание1\\лаба2задание1\\лаба2задание1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\fsharp.core\\10.0.102\\fsharp.core.10.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}
