@@ -21,7 +21,7 @@
 
 ### Тестирование
 
-<img width="93" height="92" alt="Снимок экрана 2026-02-25 085926" src="https://github.com/user-attachments/assets/cd3dcba8-0927-4d43-a52e-d090bc804ec7" />
+<img width="478" height="118" alt="Снимок экрана 2026-03-18 004614" src="https://github.com/user-attachments/assets/7806015e-9105-45d3-acc9-51102734c996" />
 
 # Задание 2
 
