@@ -51,5 +51,4 @@
 
 ### Тестирование
 
-<img width="293" height="74" alt="Снимок экрана 2026-03-25 001944" src="https://github.com/user-attachments/assets/a67ce5b5-c04c-4339-b709-6f3c24f0aa0b" />
-
+<img width="473" height="78" alt="Снимок экрана 2026-03-25 003402" src="https://github.com/user-attachments/assets/2de17133-0467-44c8-9bdd-56d600abde30" />
