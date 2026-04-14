@@ -25,7 +25,7 @@
 
 ### Тестирование
 
-
+<img width="823" height="540" alt="Снимок экрана 2026-04-15 045201" src="https://github.com/user-attachments/assets/2b90c2cd-7c66-44c5-a08b-01e956c0410f" />
 
 # Задание 2 и 3
 
@@ -67,5 +67,6 @@ bool (неявная) – результатом является true, если
 
 ### Тестирование
 
+<img width="661" height="429" alt="Снимок экрана 2026-04-15 045350" src="https://github.com/user-attachments/assets/16ea8489-b533-47e9-b880-42c526c43912" />
 
 
