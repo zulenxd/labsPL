@@ -1,0 +1,58 @@
+﻿<Window x:Class="lab9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9"
+        mc:Ignorable="d"
+        Title="" Height="550" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+            <TextBlock Text="Треугольник 1 (t1)" FontWeight="Bold" FontSize="14" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                <TextBlock Text="Катет a:" VerticalAlignment="Center" Width="60"/>
+                <TextBox x:Name="TextBoxT1_A" Width="120" VerticalContentAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Катет b:" VerticalAlignment="Center" Width="60"/>
+                <TextBox x:Name="TextBoxT1_B" Width="120" VerticalContentAlignment="Center"/>
+            </StackPanel>
+
+            <Button Content="Создать t1" Click="BtnCreateT1_Click" Padding="5" Margin="0,0,0,5"/>
+            <Button Content="t1++ (Увеличить в 2 раза)" Click="BtnT1PlusPlus_Click" Padding="5" Margin="0,0,0,5"/>
+            <Button Content="t1-- (Уменьшить в 2 раза)" Click="BtnT1MinusMinus_Click" Padding="5" Margin="0,0,0,5"/>
+            <Button Content="(double) t1 -> Площадь" Click="BtnT1Double_Click" Padding="5" Margin="0,0,0,5"/>
+            <Button Content="(bool) t1 -> Существует ли?" Click="BtnT1Bool_Click" Padding="5" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Треугольник 2 (t2)" FontWeight="Bold" FontSize="14" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                <TextBlock Text="Катет a:" VerticalAlignment="Center" Width="60"/>
+                <TextBox x:Name="TextBoxT2_A" Width="120" VerticalContentAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Катет b:" VerticalAlignment="Center" Width="60"/>
+                <TextBox x:Name="TextBoxT2_B" Width="120" VerticalContentAlignment="Center"/>
+            </StackPanel>
+
+            <Button Content="Создать t2" Click="BtnCreateT2_Click" Padding="5" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Сравнение" FontWeight="Bold" FontSize="14" Margin="0,0,0,10"/>
+            <Button Content="Сравнить (t1 &lt;= t2 и t1 &gt;= t2)" Click="BtnCompare_Click" Padding="5" Margin="0,0,0,15"/>
+
+            <Button Content="Очистить лог" Click="BtnClearLog_Click" Padding="5" Background="#FFE2E2E2"/>
+        </StackPanel>
+
+        <GroupBox Grid.Column="1" Header="Лог операций" FontSize="14">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <TextBlock x:Name="LogBlock" TextWrapping="Wrap" Margin="5" FontFamily="Consolas" FontSize="13"/>
+            </ScrollViewer>
+        </GroupBox>
+    </Grid>
+</Window>
