@@ -25,5 +25,6 @@
 
 ### Тестирование
 
+<img width="1620" height="1426" alt="CleanShot 2026-05-12 at 7  39 33@2x" src="https://github.com/user-attachments/assets/84b42190-eb41-4685-80d5-3d7b9ad05007" />
 
 
