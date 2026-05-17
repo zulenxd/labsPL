@@ -39,14 +39,16 @@
 
 ### Тестирование
 
-<img width="902" height="478" alt="CleanShot 2026-05-17 at 9  35 44@2x" src="https://github.com/user-attachments/assets/7c74fc6c-2d77-4993-8dfe-7e2a64d92005" />
-<img width="982" height="486" alt="CleanShot 2026-05-17 at 9  35 31@2x" src="https://github.com/user-attachments/assets/56251b9b-cbd9-4728-bcb4-e3e04e31a7c1" />
-<img width="1870" height="660" alt="CleanShot 2026-05-17 at 9  35 15@2x" src="https://github.com/user-attachments/assets/098f940c-9a6f-4986-8aa5-07b0226e58f4" />
-<img width="2094" height="626" alt="CleanShot 2026-05-17 at 9  34 57@2x" src="https://github.com/user-attachments/assets/143a5e5c-7c91-440a-b410-6c9d92f4ba1f" />
-<img width="2376" height="1248" alt="CleanShot 2026-05-17 at 9  34 14@2x" src="https://github.com/user-attachments/assets/da8d8465-16ae-4419-b709-c9d12d56a4e5" />
-<img width="2364" height="1242" alt="CleanShot 2026-05-17 at 9  33 25@2x" src="https://github.com/user-attachments/assets/26da6de6-58a8-4b51-b127-1c100f8991f3" />
-<img width="2368" height="1246" alt="CleanShot 2026-05-17 at 9  33 12@2x" src="https://github.com/user-attachments/assets/d90bfde0-6f6d-4996-bbc9-fb4e8b32aeeb" />
-<img width="2370" height="1238" alt="CleanShot 2026-05-17 at 9  32 33@2x" src="https://github.com/user-attachments/assets/57329363-a8aa-4cf5-9745-a474b2618d4c" />
-<img width="2358" height="1220" alt="CleanShot 2026-05-17 at 9  32 14@2x" src="https://github.com/user-attachments/assets/0600a0b5-8ede-465c-b38b-e9bb204c1edc" />
+<img width="2358" height="1220" alt="CleanShot 2026-05-17 at 9  32 14@2x" src="https://github.com/user-attachments/assets/492d1b7c-e5ac-4a94-8052-df80ab50508b" />
+<img width="2370" height="1238" alt="CleanShot 2026-05-17 at 9  32 33@2x" src="https://github.com/user-attachments/assets/a59a87f8-f829-4843-9c3a-9cba89ed1af2" />
+<img width="2368" height="1246" alt="CleanShot 2026-05-17 at 9  33 12@2x" src="https://github.com/user-attachments/assets/15ea3e3a-d825-45b0-866f-297c9f267205" />
+<img width="2364" height="1242" alt="CleanShot 2026-05-17 at 9  33 25@2x" src="https://github.com/user-attachments/assets/fa141c9e-7098-4d1e-914b-cdfb39c19e80" />
+<img width="2376" height="1248" alt="CleanShot 2026-05-17 at 9  34 14@2x" src="https://github.com/user-attachments/assets/ce2c0dc5-b5ec-4441-946c-6bffa0543aa8" />
+<img width="2094" height="626" alt="CleanShot 2026-05-17 at 9  34 57@2x" src="https://github.com/user-attachments/assets/03964c3f-70e5-4fc1-b245-61f041106e9b" />
+<img width="1870" height="660" alt="CleanShot 2026-05-17 at 9  35 15@2x" src="https://github.com/user-attachments/assets/800ca96f-1b4d-4ca0-8167-dc3c255f4820" />
+<img width="982" height="486" alt="CleanShot 2026-05-17 at 9  35 31@2x" src="https://github.com/user-attachments/assets/3bba7b73-302a-45e6-84fb-01a65408aaf9" />
+<img width="902" height="478" alt="CleanShot 2026-05-17 at 9  35 44@2x" src="https://github.com/user-attachments/assets/3ff5309f-102a-473f-b96c-d716172f4cab" />
+
+
 
 
