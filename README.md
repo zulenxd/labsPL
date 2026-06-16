@@ -58,6 +58,7 @@
 
 ### Тестирование
 
-
+<img width="1768" height="574" alt="CleanShot 2026-06-16 at 9  33 33@2x" src="https://github.com/user-attachments/assets/921beb18-83a3-416d-8689-d1be9cdc7b58" />
+<img width="958" height="168" alt="CleanShot 2026-06-16 at 9  32 47@2x" src="https://github.com/user-attachments/assets/d7d63e9e-0609-42ab-94e6-1ec741e1c491" />
 
 
