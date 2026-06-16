@@ -1,4 +1,4 @@
-﻿// Задание 2. Вариант 4.
+// Задание 2. Вариант 4.
 // Найти сумму тех элементов списка, в которых встречается заданная цифра.
 
 open System
@@ -47,11 +47,16 @@ let main _ =
     let numbers = readNumbers count
     let targetDigit = readDigit "Введите цифру для поиска: "
 
-    // Вычисляем сумму элементов, содержащих заданную цифру
+    // Вычисляем сумму элементов с помощью Seq.fold и аккумулятора
     let targetSum =
         numbers
-        |> Seq.filter (fun num -> num.ToString().Contains(string targetDigit))
-        |> Seq.sum
+        |> Seq.fold (fun acc num ->
+            // Проверяем, содержит ли текущее число нужную цифру
+            if num.ToString().Contains(string targetDigit) then
+                acc + num // Если содержит, "прилепляем" число к нашему кому (аккумулятору)
+            else
+                acc       // Если нет, передаем аккумулятор дальше без изменений
+        ) 0 // 0 — это стартовое значение нашего аккумулятора
 
     printfn "\nСумма элементов, содержащих цифру '%c': %d" targetDigit targetSum
 
