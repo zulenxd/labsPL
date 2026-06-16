@@ -1,0 +1,58 @@
+﻿// Задание 2. Вариант 4.
+// Найти сумму тех элементов списка, в которых встречается заданная цифра.
+
+open System
+
+/// Ввод целого положительного числа (для количества элементов)
+let rec readInt prompt =
+    printf "%s" prompt
+    let input = Console.ReadLine()
+    match Int32.TryParse input with
+    | true, value when value > 0 -> value
+    | _ ->
+        printfn "Ошибка: введите положительное целое число."
+        readInt prompt
+
+/// Ввод любого целого числа (для самих элементов списка)
+let rec readElement prompt =
+    printf "%s" prompt
+    let input = Console.ReadLine()
+    match Int32.TryParse input with
+    | true, value -> value
+    | _ ->
+        printfn "Ошибка: введите целое число."
+        readElement prompt
+
+/// Ввод одной цифры для поиска
+let rec readDigit prompt =
+    printf "%s" prompt
+    let input = Console.ReadLine()
+    // Проверяем, что введена ровно одна цифра от 0 до 9
+    if input.Length = 1 && Char.IsDigit(input.[0]) then
+        input.[0]
+    else
+        printfn "Ошибка: введите ровно одну цифру (от 0 до 9)."
+        readDigit prompt
+
+/// Создаёт последовательность введённых чисел
+let readNumbers count =
+    seq {
+        for i in 1 .. count do
+            yield readElement (sprintf "Введите число %d: " i)
+    }
+
+[<EntryPoint>]
+let main _ =
+    let count = readInt "Введите количество элементов в списке: "
+    let numbers = readNumbers count
+    let targetDigit = readDigit "Введите цифру для поиска: "
+
+    // Вычисляем сумму элементов, содержащих заданную цифру
+    let targetSum =
+        numbers
+        |> Seq.filter (fun num -> num.ToString().Contains(string targetDigit))
+        |> Seq.sum
+
+    printfn "\nСумма элементов, содержащих цифру '%c': %d" targetDigit targetSum
+
+    0
