@@ -37,7 +37,7 @@
 
 ### Тестирование
 
-
+<img width="904" height="286" alt="CleanShot 2026-06-16 at 9  13 26@2x" src="https://github.com/user-attachments/assets/74de9858-47b6-4e94-8626-1688d623054f" />
 
 # Задание 3
 
