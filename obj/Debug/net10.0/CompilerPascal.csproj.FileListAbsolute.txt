@@ -1,0 +1,14 @@
+/Users/zulenxd/Desktop/CompilerPascal/bin/Debug/net10.0/CompilerPascal
+/Users/zulenxd/Desktop/CompilerPascal/bin/Debug/net10.0/CompilerPascal.deps.json
+/Users/zulenxd/Desktop/CompilerPascal/bin/Debug/net10.0/CompilerPascal.runtimeconfig.json
+/Users/zulenxd/Desktop/CompilerPascal/bin/Debug/net10.0/CompilerPascal.dll
+/Users/zulenxd/Desktop/CompilerPascal/bin/Debug/net10.0/CompilerPascal.pdb
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.AssemblyInfoInputs.cache
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.AssemblyInfo.cs
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.csproj.CoreCompileInputs.cache
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.dll
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/refint/CompilerPascal.dll
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.pdb
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/CompilerPascal.genruntimeconfig.cache
+/Users/zulenxd/Desktop/CompilerPascal/obj/Debug/net10.0/ref/CompilerPascal.dll
